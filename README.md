@@ -26,7 +26,10 @@ Here are some of the projects I've been working on:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&show_icons=true)
+<h3>GitHub Activity Status</h3>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&show_icons=true) </br>
+
+<h3>GitHub Activity Status</h3></br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023)
 
 Feel free to explore and contribute to these projects!
