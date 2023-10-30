@@ -30,7 +30,7 @@ Here are some of the projects I've been working on:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&show_icons=true) </br>
 
-<h3>GitHub Activity Status</h3></br>
+<h3>Languages Status</h3>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023)
 
