@@ -1,4 +1,4 @@
-### Hi there, I'm Hafsa Khan Lodhi! 👋
+## Hi there, I'm Hafsa Khan Lodhi! 👋
 
 I'm a passionate frontend developer with a love for creating captivating web experiences.With a strong foundation in HTML, CSS, and JavaScript, I craft elegant and user-friendly interfaces that not only look great but also function flawlessly.
 
@@ -26,7 +26,7 @@ Here are some of the projects I've been working on:
 3. [Repository 3 Name](Link to Repository 3)
    - Description of Repository 3.
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 **GitHub Activity Status**
 
@@ -38,7 +38,7 @@ Here are some of the projects I've been working on:
 
 Feel free to explore and contribute to these projects!
 
-** ❤️ Support**
+**❤️ Support**
 
 If you find my work interesting or have any questions, feel free to email me.
 
