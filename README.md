@@ -1,9 +1,9 @@
 # Hi there, I'm Hafsa Khan Lodhi! 👋
 
-🚀 I'm a JavaScript enthusiast.
-🌱 I'm currently exploring the world of web development with a focus on JavaScript.
-💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com
-⚡ Fun fact: I love solving complex coding challenges and puzzles.
+🚀 I'm a JavaScript enthusiast.</br>
+🌱 I'm currently exploring the world of web development with a focus on JavaScript.</br>
+💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com</br>
+⚡ Fun fact: I love solving complex coding challenges and puzzles.</br>
 
 ## 🛠️ Technologies
 
