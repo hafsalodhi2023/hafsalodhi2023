@@ -40,4 +40,4 @@ Feel free to explore and contribute to these projects!
 
 If you find my work interesting or have any questions, feel free to email me.
 
-#Thanks for visiting! 😊
+# Thanks for visiting! 😊
