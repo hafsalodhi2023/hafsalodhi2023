@@ -28,7 +28,7 @@ Here are some of the projects I've been working on:
 
 <h3>GitHub Activity Status</h3>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&show_icons=true) </br>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&show_icons=true) </br>
 
 <h3>Languages Status</h3>
 
