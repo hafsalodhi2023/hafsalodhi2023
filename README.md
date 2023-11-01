@@ -9,7 +9,7 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 - 📐 Strong understanding of web accessibility and best coding practices.</br>
 - 🌐 A passion for staying up-to-date with the latest web technologies.</br></br>
 
-- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to these projects!
+- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to my projects!
 
 **🛠️ Technologies**
 
