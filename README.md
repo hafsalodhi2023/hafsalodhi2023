@@ -1,4 +1,4 @@
-## Hi there, I'm Hafsa Khan Lodhi! 👋
+## 👋 Hi there, I'm Hafsa Khan Lodhi!
 
 I'm a passionate frontend developer with a love for creating captivating web experiences.With a strong foundation in HTML, CSS, and JavaScript, I craft elegant and user-friendly interfaces that not only look great but also function flawlessly.
 
@@ -7,9 +7,9 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 - 💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com</br>
 - ⚡ Fun fact: I love solving complex coding challenges and puzzles.</br>
 - 📐 Strong understanding of web accessibility and best coding practices.</br>
-- 🌐 A passion for staying up-to-date with the latest web technologies.</br>
+- 🌐 A passion for staying up-to-date with the latest web technologies.</br></br>
 
-- 🌱 What's Next: I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to these projects!
+- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to these projects!
 
 **🛠️ Technologies**
 
