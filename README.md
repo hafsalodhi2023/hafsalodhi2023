@@ -6,6 +6,10 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 🌱 I'm currently exploring the world of web development with a focus on JavaScript.</br>
 💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com</br>
 ⚡ Fun fact: I love solving complex coding challenges and puzzles.</br>
+📐 Strong understanding of web accessibility and best coding practices.</br>
+🌐 A passion for staying up-to-date with the latest web technologies.</br>
+
+🌱 What's Next: I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to these projects!
 
 **🛠️ Technologies**
 
@@ -30,11 +34,11 @@ Here are some of the projects I've been working on:
 
 **GitHub Activity Status**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&show_icons=true) </br>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) </br>
 
 **Languages Status**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)</br>
 
 Feel free to explore and contribute to these projects!
 
