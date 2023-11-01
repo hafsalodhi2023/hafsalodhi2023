@@ -17,7 +17,7 @@ Here are some of the technologies I work with:
 
 - 🔧 JavaScript
 
- **📦 My Repositories**
+<!-- **📦 My Repositories**
 
 Here are some of the projects I've been working on:
 
@@ -28,7 +28,7 @@ Here are some of the projects I've been working on:
    - Description of Repository 2.
 
 3. [Repository 3 Name](Link to Repository 3)
-   - Description of Repository 3.
+   - Description of Repository 3. -->
 
 ## 📈 GitHub Stats
 
