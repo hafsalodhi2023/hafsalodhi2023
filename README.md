@@ -48,6 +48,9 @@ Here are some of the projects I've been working on:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
+**My Trophies**<br>
+![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023)<br>
+
 Feel free to explore and contribute to these projects!
 
 **❤️ Support**
