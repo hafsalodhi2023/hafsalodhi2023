@@ -40,7 +40,7 @@ Here are some of the projects I've been working on:
 
 **Languages Status**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=react)](https://github.com/hafsalodhi2023/github-readme-stats)
 
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=TidbitsJS&theme=react-dark)
