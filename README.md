@@ -35,11 +35,15 @@ Here are some of the projects I've been working on:
 
 **GitHub Activity Status**
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafsalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) </br>
+<img  src="https://github-stats-lemon.vercel.app/api?username=tidbitsjs&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=react" width="48%" >
 
 **Languages Status**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)</br>
+
+
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=TidbitsJS&theme=react-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
