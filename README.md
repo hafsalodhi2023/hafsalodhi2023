@@ -17,6 +17,10 @@ I'm a passionate frontend developer with a love for creating captivating web exp
 Here are some of the technologies I work with:
 
 - 🔧 JavaScript
+- 🐙 Git
+- 📬 Postman
+- 🍃 MongoDB
+- 🚀 NodeJS
 
 <!-- **📦 My Repositories**
 
@@ -31,21 +35,21 @@ Here are some of the projects I've been working on:
 3. [Repository 3 Name](Link to Repository 3)
    - Description of Repository 3. -->
 
-## 📈 GitHub Stats
+## 📈 GITHUB ACTIVITY STATUS
 
-**GitHub Activity Status**
+### GitHub Status
 
 <img  src="https://github-stats-lemon.vercel.app/api?username=hafsalodhi2023&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=react" width="48%" >
 
-**Languages Status**
+### Languages Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=react)](https://github.com/hafsalodhi2023/github-readme-stats)
 
+### Contribution Graph
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -57,6 +61,7 @@ Here are some of the projects I've been working on:
 **My Trophies**<br>
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023)<br>
 
+<h3 align="left">Connect with me:</h3>
 Feel free to explore and contribute to these projects!
 
 **❤️ Support**
