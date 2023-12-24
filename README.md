@@ -43,7 +43,7 @@ Here are some of the projects I've been working on:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=react)](https://github.com/hafsalodhi2023/github-readme-stats)
 
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=TidbitsJS&theme=react-dark)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
