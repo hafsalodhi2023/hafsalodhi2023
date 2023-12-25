@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafsa Khan Lodhi</h1>
 <h3 align="center">A passionate JavaScript Programmer from Pakistan</h3>
 
-I'm a passionate frontend developer with a love for creating captivating web experiences.With a strong foundation in HTML, CSS, and JavaScript, I craft elegant and user-friendly interfaces that not only look great but also function flawlessly.
+👋 Hello World! I'm Hafsa Khan Lodhi, a passionate frontend developer from Karachi, Pakistan. I'm on a journey to bring creativity to the web. My code is like a canvas where pixels turn into experiences. I craft elegant and user-friendly interfaces that not only look great but also function flawlessly. Let's build something amazing together. 🚀 #CodeArt #FrontendMagic
 
 - 🚀 I'm a JavaScript enthusiast.</br>
 - 🌱 I'm currently exploring the world of web development with a focus on JavaScript.</br>
