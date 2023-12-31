@@ -65,7 +65,9 @@ Feel free to explore and contribute to these projects!
 
 **Social Media**
 
-<a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a>
+<a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>
+
+
 
 **❤️ Support**
 
