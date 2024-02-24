@@ -40,18 +40,20 @@ Here are some of the projects I've been working on:
 ### GitHub Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight" width="35%" align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" width="53%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" width="51%" >
 
 ### Languages Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=react)](https://github.com/hafsalodhi2023/github-readme-stats)
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=tokyonight" width="40%" align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=tokyonight" width="34%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafsalodhi2023&theme=tokyonight" width="35%" >
+
 
 ### Contribution Graph
 
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark)
-
-<p align="left">
-</p>
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark" width="100%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsalodhi2023&theme=tokyonight" width="100%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsalodhi2023&theme=tokyonight" width="50%">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
