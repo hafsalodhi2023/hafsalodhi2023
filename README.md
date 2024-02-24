@@ -39,8 +39,8 @@ Here are some of the projects I've been working on:
 
 ### GitHub Status
 
-<img  src="https://github-stats-lemon.vercel.app/api?username=hafsalodhi2023&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=react" width="48%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight" width="35%" align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" width="53%" >
 
 ### Languages Status
 
