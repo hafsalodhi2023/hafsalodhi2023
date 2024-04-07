@@ -21,7 +21,7 @@
 
 - **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to my projects!
 
-**🛠️ Technologies**
+## 🛠️ Technologies
 
 Here are some of the technologies I work with:
 
@@ -36,7 +36,7 @@ Here are some of the technologies I work with:
 - 🦡 MongooseJS
 - 🚂 ExpressJS
 
-**📦 My Repositories**
+## 📦 My Repositories
 
 Here are some of the projects I've been working on:
 
@@ -49,44 +49,51 @@ Here are some of the projects I've been working on:
 3. [FILTERABLE IMAGE GALLERY](https://hafsalodhi2023.github.io/filterable-image-gallery)
    - The 'Simple Beginner Image Gallery,' a user-friendly repository designed for those taking their first steps into image management. This project features a straightforward gallery with an intuitive search filter, making it easy for beginners to organize and find images effortlessly. 
 
-## 📈 GITHUB ACTIVITY STATUS
-
-### GitHub Status
+## GitHub Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight" width="35%" align="left" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" width="51%" >
 
-### Languages Status
+## Languages Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=tokyonight" width="40%" align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=tokyonight" width="34%" >
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafsalodhi2023&theme=tokyonight" width="35%" >
 
 
-### Contribution Graph
+## Contribution Graph
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark" width="100%" >
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsalodhi2023&theme=tokyonight" width="100%" >
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsalodhi2023&theme=tokyonight" width="50%">
 
-<h3 align="left">Languages and Tools:</h3>
-![JavaScript](JavaScript.png)
+## 🧰 Languages and Tools:
 
+<div style="display:'flex'">
+<img src="JavaScript.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="NodeJS.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="ExpressJS.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="MongooseJS.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Git.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Github.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="MongoDB.png" width="6%" />&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="Postman.png" width="6%" />
+</div>
 
-**My Trophies**<br>
+## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023)<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me:
 Feel free to explore and contribute to these projects!
 
-**Social Media**
+## 🌐 Social Media
 
 <a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/in/hafsa-khan-lodhi-b908b92a7/" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; <a target="blank" href="https://stackoverflow.com/users/23130103/hafsa-khan-lodhi" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
 
 
 
-**❤️ Support**
+## ❤️ Support
 
 If you find my work interesting or have any questions, feel free to email me.
 
-**Thanks for visiting! 😊**
+### Thanks for visiting! 😊
