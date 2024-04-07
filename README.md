@@ -1,14 +1,23 @@
 <h1 align="center">Hi 👋, I'm Hafsa Khan Lodhi</h1>
-<h3 align="center">A passionate JavaScript Programmer from Pakistan</h3>
+<h3 align="center">👋 Hey there! I'm Hafsa Khan Lodhi, a passionate backend developer based in Karachi, Pakistan.</h3>
 
-👋 Hello World! I'm Hafsa Khan Lodhi, a passionate frontend developer from Karachi, Pakistan. I'm on a journey to bring creativity to the web. My code is like a canvas where pixels turn into experiences. I craft elegant and user-friendly interfaces that not only look great but also function flawlessly. Let's build something amazing together. 🚀 #CodeArt #FrontendMagic
+👩‍💻 With a love for problem-solving and a keen eye for detail, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
+🚀 #CodeArt #FrontendMagic
 
-- 🚀 I'm a JavaScript enthusiast.</br>
-- 🌱 I'm currently exploring the world of web development with a focus on JavaScript.</br>
-- 💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com</br>
-- ⚡ Fun fact: I love solving complex coding challenges and puzzles.</br>
-- 📐 Strong understanding of web accessibility and best coding practices.</br>
-- 🌐 A passion for staying up-to-date with the latest web technologies.</br></br>
+- 🚀 I'm a JavaScript enthusiast.
+- 🌱 I'm currently exploring the world of web development with a focus on JavaScript & MongoDB.
+- 💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com.
+- ⚡ Fun fact: I love solving complex backend coding challenges and puzzles.
+- 📐 Strong understanding of web accessibility and best coding practices.
+- 🌐 A passion for staying up-to-date with the latest web technologies.
+- 🚀 for showcasing your enthusiasm and drive.
+- 💻 to symbolize your proficiency in coding and technology.
+- 🔧 for highlighting your problem-solving skills.
+- 🌟 to signify excellence or mastery in your field.
+- 📚 to represent your commitment to continuous learning.
+- 👩‍💻 to show your identity as a female developer.
+- 🇵🇰 to proudly represent your Pakistani heritage and location.
+
 
 - **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to my projects!
 
@@ -16,11 +25,16 @@
 
 Here are some of the technologies I work with:
 
-- 🔧 JavaScript
+- 🧰 JavaScript
 - 🐙 Git
-- 📬 Postman
-- 🍃 MongoDB
+- :octocat: GitHub
+- 📮 Postman
+- 🍃 MongoDB Atlas
+- 🥬 MongoDB Compass
+- 🐚 Mongo Shell
 - 🚀 NodeJS
+- 🦡 MongooseJS
+- 🚂 ExpressJS
 
 **📦 My Repositories**
 
@@ -56,7 +70,7 @@ Here are some of the projects I've been working on:
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsalodhi2023&theme=tokyonight" width="50%">
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+![JavaScript](JavaScript.png)
 
 
 **My Trophies**<br>
