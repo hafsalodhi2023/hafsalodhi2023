@@ -36,19 +36,6 @@ Here are some of the technologies I work with:
 - 🦡 MongooseJS
 - 🚂 ExpressJS
 
-## 📦 My Repositories
-
-Here are some of the projects I've been working on:
-
-1. [QR CODE GENERATOR](https://hafsalodhi2023.github.io/QR_code_generator)
-   - QR Code Project for URL Generation is a user-friendly repository crafted for simplicity and ease of use. Perfect for those new to QR code projects, this tool focuses on generating QR codes exclusively for URLs. With a straightforward interface, users can effortlessly create QR codes for web links, making it an ideal starting point for individuals exploring basic QR code functionality.
-
-2. [WHATSAPP MESSAGE FORM](https://hafsalodhi2023.github.io/Whatsapp-Message-Form)
-   - The 'WhatsApp Message Form' repository seamless solution for effortlessly sending form data directly to your WhatsApp. This repository allowing users to receive submitted data conveniently on their WhatsApp account. This project enhances communication by merging the simplicity of forms with the immediacy of WhatsApp messaging, creating a powerful and efficient way to collect and manage information.
-
-3. [FILTERABLE IMAGE GALLERY](https://hafsalodhi2023.github.io/filterable-image-gallery)
-   - The 'Simple Beginner Image Gallery,' a user-friendly repository designed for those taking their first steps into image management. This project features a straightforward gallery with an intuitive search filter, making it easy for beginners to organize and find images effortlessly. 
-
 ## GitHub Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight" width="35%" align="left" >
