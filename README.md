@@ -38,21 +38,21 @@ Here are some of the technologies I work with:
 
 ## GitHub Status
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight" width="35%" align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" width="51%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight"  align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" >
 
 ## Languages Status
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=tokyonight" width="40%" align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=tokyonight" width="34%" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafsalodhi2023&theme=tokyonight" width="35%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=tokyonight"  align="left">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=tokyonight"  >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafsalodhi2023&theme=tokyonight" >
 
 
 ## Contribution Graph
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark" width="100%" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsalodhi2023&theme=tokyonight" width="100%" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsalodhi2023&theme=tokyonight" width="50%">
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&theme=react-dark" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsalodhi2023&theme=tokyonight" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsalodhi2023&theme=tokyonight">
 
 ## 🧰 Languages and Tools:
 
