@@ -40,6 +40,7 @@ Here are some of the technologies I work with:
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=tokyonight"  align="left" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&theme=tokyonight" >
+<img  src="https://github-stats-lemon.vercel.app/api?username=hafsalodhi2023&show_icons=true&hide_border=true&theme=react" >
 
 ## Languages Status
 
