@@ -16,10 +16,10 @@
 - 🌟 to signify excellence or mastery in your field.
 - 📚 to represent your commitment to continuous learning.
 - 👩‍💻 to show your identity as a female developer.
-- 🇵🇰 to proudly represent your Pakistani heritage and location.
+- 🇵🇰 to proudly represent my Pakistani heritage and location.
 
 
-- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to my projects!
+- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of web development. I'm currently working on projects, and I'm excited to share my future projects with you. Let's collaborate, create, and make the web a better place, one line of code at a time. 🚀 Feel free to explore and contribute to my projects!
 
 ## 🛠️ Technologies
 
@@ -70,9 +70,6 @@ Here are some of the technologies I work with:
 
 ## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023)<br>
-
-## 🤝 Connect with me:
-Feel free to explore and contribute to these projects!
 
 ## 🌐 Social Media
 
