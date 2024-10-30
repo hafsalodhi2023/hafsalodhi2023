@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hafsa Khan Lodhi</h1>
 <h3 align="center">👋 Hey there! I'm Hafsa Khan Lodhi, a passionate backend developer based in Karachi, Pakistan.</h3>
 
-👩‍💻 With a love for problem-solving and a keen eye for detail, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
+👩‍💻 With a love for problem-solving, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
 🚀 #CodeArt #BackendMagic
 
 - 🚀 I'm a JavaScript enthusiast.
