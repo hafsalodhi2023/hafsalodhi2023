@@ -45,7 +45,6 @@ Here are some of the technologies I work with:
 ## Languages Status
 
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=tokyonight"  align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsalodhi2023&theme=tokyonight"  >
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafsalodhi2023&theme=tokyonight" >
 
 
@@ -73,7 +72,7 @@ Here are some of the technologies I work with:
 
 ## 🌐 Social Media
 
-<a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a> &nbsp; <a target="blank" href="https://www.linkedin.com/in/hafsa-khan-lodhi-b908b92a7/" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" /></a>  &nbsp; <a target="blank" href="https://stackoverflow.com/users/23130103/hafsa-khan-lodhi" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
+<a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a>&nbsp;<a target="blank" href="https://stackoverflow.com/users/23130103/hafsa-khan-lodhi" ><img style="height: 4rem; width: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>
 
 
 
