@@ -38,7 +38,7 @@ Here are some of the technologies I work with:
 
 ## GitHub Status
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=algolia"  align="left" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafsalodhi2023&theme=algolia" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=hafsalodhi2023&hide_border=true&theme=algolia" >
 <img  src="https://github-stats-lemon.vercel.app/api?username=hafsalodhi2023&show_icons=true&hide_border=true&theme=algolia" >
 
