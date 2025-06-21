@@ -68,6 +68,19 @@ Here are some of the technologies I work with:
 <img src="Postman.png" width="6%" />
 </div>
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Mongoose.js](https://img.shields.io/badge/-Mongoose.js-05122A?style=flat&logo=mongoose&logoColor=860106)&nbsp;
+![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JSON%20web%20tokens)&nbsp;
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm&logoColor=C3282E)&nbsp;
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary&logoColor=3a4ec7)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
+
 ## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023&theme=algolia&margin-w=15&no-frame=true)<br>
 
