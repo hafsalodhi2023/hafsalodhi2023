@@ -69,7 +69,7 @@ Here are some of the technologies I work with:
 </div>
 
 ## 🏆 My Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023)<br>
+![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023&theme=algolia&margin-w=15&no-frame=true)<br>
 
 ## 🌐 Social Media
 
