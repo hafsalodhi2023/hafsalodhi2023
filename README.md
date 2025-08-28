@@ -78,7 +78,7 @@ Here are some of the technologies I work with:
 
 ## 🌐 Social Media
 
-<a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a>&nbsp;<a target="blank" href="https://stackoverflow.com/users/23130103/hafsa-khan-lodhi" ><img style="height: 4rem; width: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>&nbsp;<a target="blank" href="https://discord.com/users/1208787476475412576" ><img style="height: 3rem; width: 3rem;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngimg.com%2Fimage%2F114188&psig=AOvVaw3XDaSfnvixgulWTRpRVlWM&ust=1756484572756000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOD0p4v1rY8DFQAAAAAdAAAAABAL" /></a>
+<a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a>&nbsp;<a target="blank" href="https://stackoverflow.com/users/23130103/hafsa-khan-lodhi" ><img style="height: 4rem; width: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>&nbsp;<a target="blank" href="https://discord.com/users/1208787476475412576" ><img style="height: 3rem; width: 3rem;" src="https://pngimg.com/d/discord_PNG8.png" /></a>
 
 
 
