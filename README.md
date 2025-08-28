@@ -35,6 +35,7 @@ Here are some of the technologies I work with:
 - 🚀 NodeJS
 - 🦡 MongooseJS
 - 🚂 ExpressJS
+- 🐬 MY SQL
 
 ## GitHub Status
 
@@ -69,7 +70,7 @@ Here are some of the technologies I work with:
 <img height="28" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />&nbsp;
 <img height="28" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />&nbsp;
 <img height="28" src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />&nbsp;
-
+<img height="28" src="https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql" />&nbsp;
 
 
 ## 🏆 My Trophies
