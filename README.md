@@ -15,7 +15,7 @@
 - 🔧 for highlighting your problem-solving skills.
 - 🌟 to signify excellence or mastery in your field.
 - 📚 to represent your commitment to continuous learning.
-- 👩‍💻 to show your identity as a female developer.
+- 👩‍💻 to show my identity as a female developer.
 - 🇵🇰 to proudly represent my Pakistani heritage and location.
 
 
