@@ -25,17 +25,31 @@
 
 Here are some of the technologies I work with:
 
-- 🧰 JavaScript
-- 🐙 Git
-- :octocat: GitHub
-- 📮 Postman
-- 🍃 MongoDB Atlas
-- 🥬 MongoDB Compass
-- 🐚 Mongo Shell
-- 🚀 NodeJS
-- 🦡 MongooseJS
-- 🚂 ExpressJS
-- 🐬 MY SQL
+### 🖥️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+- MVC Structure  
+- Middleware  
+- Error Handling
+- .env confregration
+- Helmet.js & CORS
+- Multer
+
+### 🗄️ Database
+- MongoDB  
+- Mongoose
+- Schema Design & validation
+
+### 🧰 Tools & Others
+- Git & GitHub  
+- Postman  
+- JWT Authentication  
+- bcrypt  
+- Cloudinary  
+- Thunder Client
+- npm
+- VScode
 
 ## GitHub Status
 
