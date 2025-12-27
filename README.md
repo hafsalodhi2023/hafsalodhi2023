@@ -4,24 +4,6 @@
 👩‍💻 With a love for problem-solving, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
 🚀 #CodeArt #BackendMagic
 
-<div>
-   <a href="https://visitorbadge.io/status?path=kiranShamsHere">
-    <img src="https://api.visitorbadge.io/api/visitors?path=hafsalodhi2023&label=Profile%20Views&countColor=%232dde98" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://github.com/hafsalodhi2023">
-    <img alt="Followers" src="https://img.shields.io/github/followers/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Followers">
-  </a>
-  <a href="https://github.com/hafsalodhi2023?tab=repositories">
-    <img alt="Repos" src="https://badges.strrl.dev/repos/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Repos">
-  </a>
-  <a href="https://github.com/hafsalodhi2023">
-    <img alt="Stars" src="https://img.shields.io/github/stars/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Stars">
-  </a>
-  <a href="https://github.com/hafsalodhi2023">
-    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Commits+Today">
-  </a>
-</div>
-
 - 🚀 I'm a JavaScript enthusiast.
 - 🌱 I'm currently exploring the world of web development with a focus on JavaScript & MongoDB.
 - 💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com.
@@ -82,12 +64,32 @@ Here are some of the technologies I work with:
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafsalodhi2023&hide_border=true&layout=compact&theme=algolia" >
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafsalodhi2023&theme=algolia" >
 
+# My Activity
+
+<div>
+   <a href="https://visitorbadge.io/status?path=kiranShamsHere">
+    <img src="https://api.visitorbadge.io/api/visitors?path=hafsalodhi2023&label=Profile%20Views&countColor=%232dde98" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://github.com/hafsalodhi2023">
+    <img alt="Followers" src="https://img.shields.io/github/followers/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Followers">
+  </a>
+  <a href="https://github.com/hafsalodhi2023?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Repos">
+  </a>
+  <a href="https://github.com/hafsalodhi2023">
+    <img alt="Stars" src="https://img.shields.io/github/stars/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Stars">
+  </a>
+  <a href="https://github.com/hafsalodhi2023">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Commits+Today">
+  </a>
+</div>
 
 ## Contribution Graph
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&hide_border=true&theme=react-dark" >
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafsalodhi2023&theme=algolia" >
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafsalodhi2023&theme=algolia">
+
 
 ## 🧰 Languages and Tools:
 
@@ -105,15 +107,14 @@ Here are some of the technologies I work with:
 <img height="28" src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" />&nbsp;
 <img height="28" src="https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql" />&nbsp;
 
-
-## 🏆 My Trophies
-![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023&theme=algolia&margin-w=15&no-frame=true)<br>
+<!-- ## 🏆 My Trophies
+![My Trophies](https://github-profile-trophy.vercel.app/?username=hafsalodhi2023&theme=algolia&margin-w=15&no-frame=true)<br> -->
 
 ## 🌐 How to Reach me
 
 <!-- Facebook -->
  <a href="https://www.facebook.com/hafsalodhi2023">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   
 <!-- Gmail -->
@@ -128,7 +129,7 @@ Here are some of the technologies I work with:
 
   <!-- Instagram -->
   <a href="https://www.instagram.com/hafsalodhi2023/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
    <!-- Twitter (X) -->
@@ -138,18 +139,13 @@ Here are some of the technologies I work with:
 
   <!-- Bluesky -->
   <a href="https://bsky.app/profile/hafsalodhi2023.bsky.social">
-    <img src="https://img.shields.io/badge/bluesky-1185fe?style=for-the-badge&logo=bluesky&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bluesky-1185fe?style=for-the-badge&logo=bluesky&logoColor=white"/>
   </a>
 
    <!-- GitHub -->
   <a href="https://github.com/hafsalodhi2023">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  
-
-  
-
 
 
 ## ❤️ Support
