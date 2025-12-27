@@ -94,6 +94,40 @@ Here are some of the technologies I work with:
 
 <a target="blank" href="https://www.facebook.com/profile.php?id=61555157062741" ><img style="height: 3rem; width: 3rem;" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" /></a>&nbsp;<a target="blank" href="https://stackoverflow.com/users/23130103/hafsa-khan-lodhi" ><img style="height: 4rem; width: 4rem;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png" /></a>&nbsp;<a target="blank" href="https://discord.com/users/1208787476475412576" style="border-radius: 10px;" ><img style="height: 3rem; width: 3rem;" src="https://pngimg.com/uploads/discord/discord_PNG8.png" /></a>
 
+<!-- Facebook -->
+ <a href="https://www.facebook.com/hafsalodhi2023">
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+<!-- Gmail -->
+  <a href="mailto:hafsalodhi2023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>  
+
+<!-- Discord -->
+  <a href="https://discord.com/users/1208787476475412576">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/hafsalodhi2023/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+    <!-- Twitter (X) -->
+  <a href="https://x.com/hafsalodhi2023">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/hafsalodhi2023.bsky.social">
+    <img src="https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bsky&logoColor=white"/>
+  </a>
+
+  
+
+  
+
 
 
 ## ❤️ Support
