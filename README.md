@@ -40,6 +40,7 @@ Here are some of the technologies I work with:
 - MongoDB  
 - Mongoose
 - Schema Design & validation
+- MySQL
 
 ### 🧰 Tools & Others
 - Git & GitHub  
