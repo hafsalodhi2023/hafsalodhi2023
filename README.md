@@ -153,3 +153,8 @@ Here are some of the technologies I work with:
 If you find my work interesting or have any questions, feel free to email me.
 
 ### Thanks for visiting! 😊
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer" width="100%"/>
+</div>
+
