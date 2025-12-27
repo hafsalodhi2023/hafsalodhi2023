@@ -4,6 +4,24 @@
 👩‍💻 With a love for problem-solving, I specialize in crafting robust backend solutions to drive seamless and efficient application functionality.
 🚀 #CodeArt #BackendMagic
 
+<div>
+   <a href="https://visitorbadge.io/status?path=kiranShamsHere">
+    <img src="https://api.visitorbadge.io/api/visitors?path=hafsalodhi2023&label=Profile%20Views&countColor=%232dde98" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://github.com/hafsalodhi2023">
+    <img alt="Followers" src="https://img.shields.io/github/followers/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Followers">
+  </a>
+  <a href="https://github.com/hafsalodhi2023?tab=repositories">
+    <img alt="Repos" src="https://badges.strrl.dev/repos/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Repos">
+  </a>
+  <a href="https://github.com/hafsalodhi2023">
+    <img alt="Stars" src="https://img.shields.io/github/stars/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Stars">
+  </a>
+  <a href="https://github.com/hafsalodhi2023">
+    <img alt="Commits Today" src="https://badges.strrl.dev/commits/daily/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Commits+Today">
+  </a>
+</div>
+
 - 🚀 I'm a JavaScript enthusiast.
 - 🌱 I'm currently exploring the world of web development with a focus on JavaScript & MongoDB.
 - 💬 Feel free to reach out to me through my email: hafsalodhi2023@gmail.com.
