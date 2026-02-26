@@ -136,12 +136,7 @@ Here are some of the technologies I work with:
   <a href="https://x.com/hafsalodhi2023">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-
-  <!-- Bluesky -->
-  <a href="https://bsky.app/profile/hafsalodhi2023.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-1185fe?style=for-the-badge&logo=bluesky&logoColor=white"/>
-  </a>
-
+  
    <!-- GitHub -->
   <a href="https://github.com/hafsalodhi2023">
     <img src="https://img.shields.io/badge/Github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white"/>
