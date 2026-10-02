@@ -158,33 +158,30 @@ If you find my work interesting or have any questions, feel free to email me.
 
 
 
-
-
-
 <h1 align="center">Hi 👋, I'm Hafsa Khan Lodhi</h1>
 
-<h3 align="center">💻 Full-Stack MERN Developer from Karachi, Pakistan 🇵🇰</h3>
+<h3 align="center">💻 Full-Stack Developer from Karachi, Pakistan 🇵🇰</h3>
 
 <p align="center">
-  I build modern, responsive, and practical web applications using JavaScript, React, Node.js, Express, and MongoDB.
+  I build modern, responsive, and practical web applications using JavaScript, React, Next.js, Node.js, and modern backend technologies.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack MERN Developer** who enjoys turning ideas into functional and user-friendly web applications.
+I'm a **Full-Stack Developer** who enjoys turning ideas into functional, user-friendly, and scalable web applications.
 
-I started my journey with backend development and gradually expanded into frontend development with **React.js**, giving me a better understanding of how the complete application works — from the UI to the API and database.
+My development journey started with backend development, where I worked with **Node.js, Express.js, REST APIs, and databases**. I later expanded into frontend development with **React.js** and modern full-stack technologies.
 
-* 💻 Building full-stack web applications with the **MERN stack**
-* ⚛️ Currently improving my **React.js & frontend development** skills
-* 🟢 Strong interest in **Node.js, Express.js & REST APIs**
-* 🗄️ Working with **MongoDB & Mongoose**
-* 🔐 Building secure applications with **JWT & authentication**
-* 🎨 Learning to create clean and responsive interfaces with **React & Tailwind CSS**
-* 🧠 I enjoy solving coding problems and turning ideas into real projects
-* 🌱 Always learning, experimenting, and building something new
+* 💻 Building full-stack web applications
+* ⚛️ Working with **React.js & Next.js**
+* 🟢 Building backend systems with **Node.js & Express.js**
+* 🗄️ Working with **MongoDB, MySQL & modern ORMs**
+* 🔐 Implementing authentication and secure APIs
+* 🎨 Creating responsive interfaces with **Tailwind CSS**
+* 🧠 Enjoy solving coding problems and debugging complex issues
+* 🌱 Continuously learning and exploring modern web technologies
 * 📍 Karachi, Pakistan 🇵🇰
 
 ---
@@ -192,9 +189,10 @@ I started my journey with backend development and gradually expanded into fronte
 ## 🚀 What I Do
 
 ```text
-Frontend       → React.js, JavaScript, Tailwind CSS
+Frontend       → React.js, Next.js, JavaScript, Tailwind CSS
 Backend        → Node.js, Express.js, REST APIs
-Database       → MongoDB, Mongoose, MySQL
+Database       → MongoDB, MySQL
+ORM            → Prisma, Drizzle ORM, Mongoose
 State          → Redux
 Authentication → JWT, bcrypt
 Tools          → Git, GitHub, Postman, VS Code, npm
@@ -211,6 +209,7 @@ Tools          → Git, GitHub, Postman, VS Code, npm
   <img height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
@@ -220,24 +219,28 @@ Tools          → Git, GitHub, Postman, VS Code, npm
 <p>
   <img height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases & ORM
 
 <p>
   <img height="30" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000000" />
+  <img height="30" src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
 </p>
 
 ### 🔐 Authentication & Backend Tools
 
 <p>
   <img height="30" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img height="30" src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge" />
   <img height="30" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Multer-FF6B35?style=for-the-badge" />
+  <img height="30" src="https://img.shields.io/badge/CORS-000000?style=for-the-badge" />
+  <img height="30" src="https://img.shields.io/badge/Helmet.js-000000?style=for-the-badge" />
 </p>
 
 ### 🧰 Tools
@@ -256,47 +259,12 @@ Tools          → Git, GitHub, Postman, VS Code, npm
 ## 📚 Currently Learning
 
 * ⚛️ Advanced React.js
-* 🧩 React component architecture
-* 🔄 Redux & state management
+* ▲ Next.js
+* 🧩 React architecture & state management
+* 🗄️ Prisma & Drizzle ORM
 * 🎨 Modern UI development with Tailwind CSS
 * 🔗 Full-stack application architecture
 * 🚀 Building and deploying production-ready applications
-
----
-
-## 🚀 Featured Projects
-
-### 🍳 Aaj Kya Pakayein?
-
-An AI-powered recipe discovery and meal-planning application that helps users decide what to cook using the ingredients they already have.
-
-**Tech:** React · Vite · Redux · Tailwind CSS · Node.js · Express · MongoDB
-
-**Features:**
-
-* 🥕 Ingredient-based recipe discovery
-* 🤖 AI-powered recipe suggestions
-* 🍽️ Recipe details & cooking instructions
-* ❤️ Favorites
-* 📅 Meal planning
-* 📱 Responsive interface
-
----
-
-### 👕 D.Garments — T-Shirt Management System
-
-A management application designed for a small T-shirt business to manage products, orders, inventory, invoices, and sales insights.
-
-**Tech:** Google Sheets · Google Apps Script · JavaScript
-
-**Features:**
-
-* 📦 Product management
-* 🛒 Order management
-* 🧾 Invoice generation
-* 📊 Dashboard & sales insights
-* 📈 Inventory tracking
-* 🔐 Login & modern management UI
 
 ---
 
@@ -313,96 +281,4 @@ A management application designed for a small T-shirt business to manage product
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafsalodhi2023&hide_border=true&layout=compact&theme=algolia" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&hide_border=true&theme=react-dark" width="100%" />
-</p>
-
----
-
-## 📌 GitHub Profile
-
-<div align="center">
-
-<a href="https://visitorbadge.io/status?path=hafsalodhi2023">
-  <img src="https://api.visitorbadge.io/api/visitors?path=hafsalodhi2023&label=Profile%20Views&countColor=%232dde98" />
-</a>
-
-<a href="https://github.com/hafsalodhi2023">
-  <img alt="Followers" src="https://img.shields.io/github/followers/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Followers" />
-</a>
-
-<a href="https://github.com/hafsalodhi2023?tab=repositories">
-  <img alt="Repositories" src="https://badges.strrl.dev/repos/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Repos" />
-</a>
-
-<a href="https://github.com/hafsalodhi2023">
-  <img alt="Stars" src="https://img.shields.io/github/stars/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Stars" />
-</a>
-
-</div>
-
----
-
-## 🌱 What's Next?
-
-I'm focused on becoming a stronger **full-stack developer** by building real-world applications and continuously improving my understanding of modern web development.
-
-My goal is to write cleaner code, build better user experiences, understand application architecture, and turn ideas into useful products.
-
-> **Learn → Build → Break → Debug → Improve → Repeat.** 🚀
-
----
-
-## 🌐 Let's Connect
-
-<p align="left">
-
-<a href="mailto:hafsalodhi2023@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/hafsalodhi2023">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/hafsalodhi2023">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/hafsalodhi2023/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://x.com/hafsalodhi2023">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/1208787476475412576">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## ❤️ Thanks for Visiting!
-
-Thanks for stopping by my GitHub profile!
-Feel free to explore my repositories, check out my projects, and connect with me.
-
-<div align="center">
-
-### ✨ Let's build something awesome together! 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer" width="100%" />
-
-</div>
-
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top
