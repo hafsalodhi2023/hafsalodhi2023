@@ -155,9 +155,6 @@ If you find my work interesting or have any questions, feel free to email me.
 
 
 
-
-
-
 <h1 align="center">Hi 👋, I'm Hafsa Khan Lodhi</h1>
 
 <h3 align="center">💻 Full-Stack Developer from Karachi, Pakistan 🇵🇰</h3>
@@ -170,7 +167,7 @@ If you find my work interesting or have any questions, feel free to email me.
 
 ## 👩‍💻 About Me
 
-I'm a **Full-Stack Developer** who enjoys turning ideas into functional, user-friendly, and scalable web applications.
+I'm a **Full-Stack Developer** who enjoys turning ideas into functional, user-friendly, and practical web applications.
 
 My development journey started with backend development, where I worked with **Node.js, Express.js, REST APIs, and databases**. I later expanded into frontend development with **React.js** and modern full-stack technologies.
 
@@ -178,9 +175,10 @@ My development journey started with backend development, where I worked with **N
 * ⚛️ Working with **React.js & Next.js**
 * 🟢 Building backend systems with **Node.js & Express.js**
 * 🗄️ Working with **MongoDB, MySQL & modern ORMs**
+* 🔄 Managing server state and data fetching with **TanStack Query**
 * 🔐 Implementing authentication and secure APIs
 * 🎨 Creating responsive interfaces with **Tailwind CSS**
-* 🧠 Enjoy solving coding problems and debugging complex issues
+* 🧠 I enjoy solving coding problems and debugging complex issues
 * 🌱 Continuously learning and exploring modern web technologies
 * 📍 Karachi, Pakistan 🇵🇰
 
@@ -190,10 +188,11 @@ My development journey started with backend development, where I worked with **N
 
 ```text
 Frontend       → React.js, Next.js, JavaScript, Tailwind CSS
+State          → Redux
+Data Fetching  → TanStack Query (React Query)
 Backend        → Node.js, Express.js, REST APIs
 Database       → MongoDB, MySQL
 ORM            → Prisma, Drizzle ORM, Mongoose
-State          → Redux
 Authentication → JWT, bcrypt
 Tools          → Git, GitHub, Postman, VS Code, npm
 ```
@@ -211,6 +210,7 @@ Tools          → Git, GitHub, Postman, VS Code, npm
   <img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img height="30" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
@@ -260,7 +260,8 @@ Tools          → Git, GitHub, Postman, VS Code, npm
 
 * ⚛️ Advanced React.js
 * ▲ Next.js
-* 🧩 React architecture & state management
+* 🔄 TanStack Query (React Query)
+* 🧩 Redux & state management
 * 🗄️ Prisma & Drizzle ORM
 * 🎨 Modern UI development with Tailwind CSS
 * 🔗 Full-stack application architecture
@@ -281,4 +282,95 @@ Tools          → Git, GitHub, Postman, VS Code, npm
 
 <p align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafsalodhi2023&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafsalodhi2023&hide_border=true&layout=compact&theme=algolia" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafsalodhi2023&hide_border=true&theme=react-dark" width="100%" />
+</p>
+
+---
+
+## 📌 GitHub Profile
+
+<div align="center">
+
+<a href="https://visitorbadge.io/status?path=hafsalodhi2023">
+  <img src="https://api.visitorbadge.io/api/visitors?path=hafsalodhi2023&label=Profile%20Views&countColor=%232dde98" />
+</a>
+
+<a href="https://github.com/hafsalodhi2023">
+  <img alt="Followers" src="https://img.shields.io/github/followers/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/hafsalodhi2023?tab=repositories">
+  <img alt="Repositories" src="https://badges.strrl.dev/repos/hafsalodhi2023?color=%232dde98&style=for-the-badge&label=Repos" />
+</a>
+
+<a href="https://github.com/hafsalodhi2023">
+  <img alt="Stars" src="https://img.shields.io/github/stars/hafsalodhi2023?style=for-the-badge&color=%232dde98&logo=github&label=Stars" />
+</a>
+
+</div>
+
+---
+
+## 🌱 What's Next?
+
+I'm focused on becoming a stronger **full-stack developer** by building real-world applications and continuously improving my understanding of modern web development.
+
+My goal is to write clean and maintainable code, build better user experiences, understand scalable application architecture, and turn ideas into useful products.
+
+> **Learn → Build → Debug → Improve → Repeat.** 🚀
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+
+<a href="mailto:hafsalodhi2023@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/hafsalodhi2023">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/hafsalodhi2023">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/hafsalodhi2023/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://x.com/hafsalodhi2023">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/1208787476475412576">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## ❤️ Thanks for Visiting!
+
+Thanks for stopping by my GitHub profile!
+
+Feel free to explore my repositories and connect with me.
+
+<div align="center">
+
+### ✨ Let's build something awesome together! 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00aeff&height=120&section=footer" width="100%" />
+
+</div>
